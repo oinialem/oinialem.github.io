@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oinialem.github.io/sitemap.html.gz
+Sitemap: https://oinialem.github.io/app/sitemap.html.gz
+Sitemap: https://oinialem.github.io/assets/sitemap.html.gz
+Sitemap: https://oinialem.github.io/css/sitemap.html.gz
+Sitemap: https://oinialem.github.io/data/sitemap.html.gz
+Sitemap: https://oinialem.github.io/includes/sitemap.html.gz
+Sitemap: https://oinialem.github.io/item/sitemap.html.gz
+Sitemap: https://oinialem.github.io/src/sitemap.html.gz
